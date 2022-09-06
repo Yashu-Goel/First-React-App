@@ -1,0 +1,12 @@
+.FormBox{
+    display: flex;
+    justify-content: center;
+}
+.SubmitButton{
+    background-color: #010150;
+    font-weight: bold;
+    padding: 10px;
+}   
+.TextBox{
+    color: black;
+}

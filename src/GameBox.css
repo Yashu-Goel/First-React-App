@@ -1,0 +1,26 @@
+.GameBox{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: #1A2421;
+    margin: 0px;
+    cursor: pointer;
+    margin: 20px;
+}
+.GameImg img{
+    border-radius: 10px;
+}
+.GameDescription{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    
+}
+.GameName{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+input{
+    color: black;
+}
